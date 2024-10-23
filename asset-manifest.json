@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kevinkirw/static/css/main.fc3d4bce.css",
-    "main.js": "/kevinkirw/static/js/main.6cff1e92.js",
+    "main.css": "/kevinkirw/static/css/main.b099576f.css",
+    "main.js": "/kevinkirw/static/js/main.93d25deb.js",
     "static/media/bannerImg.png": "/kevinkirw/static/media/bannerImg.7c173f6cf01f2b229086.png",
     "static/media/projectThree.jpeg": "/kevinkirw/static/media/projectThree.f583bf92ec02594a7834.jpeg",
     "static/media/testimonialOne.png": "/kevinkirw/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
     "static/media/testimonialTwo.png": "/kevinkirw/static/media/testimonialTwo.c6df2773c486964035d9.png",
     "static/media/projectTwo.jpg": "/kevinkirw/static/media/projectTwo.b5530b169494ef27bcd9.jpg",
     "index.html": "/kevinkirw/index.html",
-    "main.fc3d4bce.css.map": "/kevinkirw/static/css/main.fc3d4bce.css.map",
-    "main.6cff1e92.js.map": "/kevinkirw/static/js/main.6cff1e92.js.map"
+    "main.b099576f.css.map": "/kevinkirw/static/css/main.b099576f.css.map",
+    "main.93d25deb.js.map": "/kevinkirw/static/js/main.93d25deb.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc3d4bce.css",
-    "static/js/main.6cff1e92.js"
+    "static/css/main.b099576f.css",
+    "static/js/main.93d25deb.js"
   ]
 }
